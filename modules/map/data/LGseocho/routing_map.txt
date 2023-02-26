@@ -1,0 +1,2 @@
+hdmap_version: "1.500000"
+hdmap_district: "0"
